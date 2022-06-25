@@ -222,6 +222,7 @@ textarea {
 .submit-btn {
   font-size: 0.8rem;
   background-color: transparent;
+  color: #000;
   height: 30px;
   width: 200px;
   display: block;
