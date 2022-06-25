@@ -223,6 +223,7 @@ textarea {
   font-size: 0.8rem;
   background-color: transparent;
   color: #000;
+  font-weight: 300;
   height: 30px;
   width: 200px;
   display: block;
